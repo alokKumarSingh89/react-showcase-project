@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-showcase-project/static/css/main.e87020a3.chunk.css",
+    "main.js": "/react-showcase-project/static/js/main.8f5015fa.chunk.js",
+    "main.js.map": "/react-showcase-project/static/js/main.8f5015fa.chunk.js.map",
+    "runtime-main.js": "/react-showcase-project/static/js/runtime-main.c6d03013.js",
+    "runtime-main.js.map": "/react-showcase-project/static/js/runtime-main.c6d03013.js.map",
+    "static/js/2.bb274b18.chunk.js": "/react-showcase-project/static/js/2.bb274b18.chunk.js",
+    "static/js/2.bb274b18.chunk.js.map": "/react-showcase-project/static/js/2.bb274b18.chunk.js.map",
+    "index.html": "/react-showcase-project/index.html",
+    "precache-manifest.84946359b8dd10908bb91d25b2ee8fb6.js": "/react-showcase-project/precache-manifest.84946359b8dd10908bb91d25b2ee8fb6.js",
+    "service-worker.js": "/react-showcase-project/service-worker.js",
+    "static/css/main.e87020a3.chunk.css.map": "/react-showcase-project/static/css/main.e87020a3.chunk.css.map",
+    "static/js/2.bb274b18.chunk.js.LICENSE.txt": "/react-showcase-project/static/js/2.bb274b18.chunk.js.LICENSE.txt",
+    "static/media/photo.jpg": "/react-showcase-project/static/media/photo.db32600a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d03013.js",
+    "static/js/2.bb274b18.chunk.js",
+    "static/css/main.e87020a3.chunk.css",
+    "static/js/main.8f5015fa.chunk.js"
+  ]
+}
